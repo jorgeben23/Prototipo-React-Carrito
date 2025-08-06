@@ -1,0 +1,1 @@
+export { default as dataCredenciales } from "./credenciales.data";
